@@ -6,5 +6,7 @@ var lk=keyboard_check(vk_left)
 hspd=(rk-lk)*movspd
 vspd=(dk-uk)*movspd
 
-x+=hspd
-y+=vspd
+//x+=hspd
+//y+=vspd
+
+move_and_collide(hspd, vspd, Wall_OBJ)
