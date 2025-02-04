@@ -34,9 +34,7 @@
   },
   "name":"Maid Manor",
   "resources":[
-    {"id":{"name":"obj_playerchr","path":"objects/obj_playerchr/obj_playerchr.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_playerchr","path":"sprites/spr_playerchr/spr_playerchr.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
